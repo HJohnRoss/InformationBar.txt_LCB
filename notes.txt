@@ -1,1 +1,1 @@
-- 2 line max
+- 1 line max
